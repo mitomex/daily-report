@@ -3,7 +3,7 @@ name: Daily Report
 about: Daily Report Template
 title: ''
 labels: ''
-assignees: ''
+assignees: mitomex
 
 ---
 
